@@ -21,7 +21,7 @@
     <ul>
         <li><p>'windows installer msi' at</p> <p> https://github.com/MSOpenTech/redis/releases</p>
 	Note: 
-	1.set PATH variable.
+	1.set PATH variable...
 	2. Reboot system after install.</li>
     </ul>
 </li>
