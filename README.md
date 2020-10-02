@@ -47,7 +47,7 @@
 </li>
     
 <li>
-    Set default student password from admin account.
+    Set default student password from admin account...
 </li>
 <li>
     Allot group leaders from admin account. Email notification will be sent to group leaders.
